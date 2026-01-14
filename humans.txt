@@ -1,0 +1,11 @@
+/* TEAM */
+Name: Oscar Barajas
+Email: oscar@gndx.dev
+Twitter: @gndx
+Site: https://freehabits.website
+Language: es
+
+/* SITE */
+Title: FreeHabits
+Description: App web para crear hábitos, registrar check-ins y ver rachas.
+URL: https://freehabits.website/
